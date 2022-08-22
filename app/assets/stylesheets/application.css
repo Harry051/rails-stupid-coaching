@@ -13,3 +13,33 @@
  *= require_tree .
  *= require_self
  */
+.btn{
+  background-color: blue;
+  border-color: black;
+}
+
+.text{
+  border-radius: 8px;
+  padding: 1px;
+  text-decoration: none;
+}
+
+.qanda {
+  background-color: #ffffe1;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.toptext {
+  margin-top: 40px;
+}
+
+.greyed {
+  background-color: #dddddd;
+}
+
+body{
+  padding-left: 20px;
+}
